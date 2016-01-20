@@ -19,12 +19,12 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "object",
+    "string"
   ],
-  "dependencies": {},
   "devDependencies": {
-    "ava": "*",
-    "xo": "*"
+    "ava": "^0.10.0",
+    "xo": "^0.12.1"
   },
   "xo": {
     "semicolon": false
