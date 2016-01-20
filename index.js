@@ -19,7 +19,9 @@ module.exports = function (str) {
 	// check if str is a valid object-string
 	if (str.indexOf(':') > -1) {
 		var yields = str.split(':')
-		return {[yields[0]]: yields[1]}
+		var result = {}
+		result[yields[0]] = yields[1]
+		return result
 	}
 	return str
 }
