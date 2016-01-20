@@ -1,4 +1,4 @@
-# object-string [![NPM version](https://img.shields.io/npm/v/object-string.svg)](https://npmjs.com/package/object-string) [![NPM downloads](https://img.shields.io/npm/dm/object-string.svg)](https://npmjs.com/package/object-string) [![Build Status](https://travis-ci.org/egoist/object-string.svg?branch=master)](https://travis-ci.org/egoist/object-string)
+# object-string [![NPM version](https://img.shields.io/npm/v/object-string.svg)](https://npmjs.com/package/object-string) [![NPM downloads](https://img.shields.io/npm/dm/object-string.svg)](https://npmjs.com/package/object-string) [![Build Status](https://img.shields.io/circleci/project/egoist/object-string/master.svg)](https://circleci.com/gh/egoist/object-string)
 
 > Read string as JS object
 
